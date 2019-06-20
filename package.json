@@ -29,7 +29,7 @@
     "npmpub": "^4.1.0",
     "remark-cli": "^6.0.0",
     "remark-preset-lint-consistent": "^2.0.0",
-    "remark-preset-lint-recommended": "^3.0.0",
+    "remark-preset-lint-recommended": "^3.0.3",
     "stylelint": "^10.0.0"
   },
   "peerDependencies": {
